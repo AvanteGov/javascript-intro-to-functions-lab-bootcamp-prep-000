@@ -15,7 +15,7 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
-  logShout
+  
     return ("YES INDEED")
   } 
  
